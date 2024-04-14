@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./frame-4.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inria Serif:wght@400;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inknut Antiqua:wght@400;500;600;700;800&display=swap"
+    />
+  </head>
+  <body>
+    <div class="frame-root">
+      <section class="maa-vaishnavi-recipes-high-res-container">
+        <img
+          class="maa-vaishnavi-recipes-high-res-icon5"
+          loading="lazy"
+          alt=""
+          src="./public/maavaishnavirecipeshighresolutionlogotransparent-1-12@2x.png"
+        />
+
+        <div class="frame-wrapper12">
+          <div class="component-1-parent3">
+            <div class="component-15">
+              <div class="component-1-child3"></div>
+              <b class="home25">HOME</b>
+            </div>
+            <div class="component-25">
+              <div class="component-2-child3"></div>
+              <b class="home26">RECIPES</b>
+            </div>
+            <div class="component-35">
+              <div class="component-3-child3"></div>
+              <b class="home27" id="hOMEText2">CATEGORIES</b>
+            </div>
+            <div class="component-45">
+              <div class="component-4-child3"></div>
+              <b class="home28">MEAL PLANNING</b>
+            </div>
+          </div>
+        </div>
+        <div class="component-6-frame">
+          <button class="component-64">
+            <div class="component-6-child2"></div>
+            <b class="home29">SUBMIT RECIPE</b>
+          </button>
+        </div>
+      </section>
+      <div class="frame-child60"></div>
+    </div>
+
+    <!-- <script> -->
+      var hOMEText2 = document.getElementById("hOMEText2");
+      if (hOMEText2) {
+        hOMEText2.addEventListener("click", function () {
+          var anchor = document.querySelector(
+            "[data-scroll-to='sUBHEADINGContainer']"
+          );
+          if (anchor) {
+            anchor.scrollIntoView({ block: "start", behavior: "smooth" });
+          }
+        });
+      }
+      </script>
+  </body>
+</html>

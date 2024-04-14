@@ -1,0 +1,1817 @@
+.component-1-inner,
+.home10 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.component-1-inner {
+  right: 0;
+  bottom: 0;
+  display: none;
+}
+.home10 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 70px;
+}
+.component-12 {
+  height: 36px;
+  width: 70px;
+  position: relative;
+  border-top: 3px solid #b76e79;
+  border-bottom: 3px solid #b76e79;
+  box-sizing: border-box;
+  display: none;
+}
+.component-2-inner,
+.home11 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.component-2-inner {
+  right: 0;
+  bottom: 0;
+  display: none;
+}
+.home11 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 100px;
+  
+}
+.component-22 {
+  height: 36px;
+  width: 100px;
+  position: relative;
+
+  box-sizing: border-box;
+  display: none;
+  cursor: pointer;
+}
+.component-3-inner {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: none;
+}
+.home12 {
+  position: absolute;
+  top: 3.33%;
+  left: 2.7%;
+  cursor: pointer;
+}
+.component-32 {
+  height: 36px;
+  width: 148px;
+  position: relative;
+  border-top: 3px solid #000;
+  border-bottom: 3px solid #000;
+  box-sizing: border-box;
+  display: none;
+}
+.component-4-inner {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: none;
+}
+.home13 {
+  position: absolute;
+  top: 3.33%;
+  left: 0.53%;
+  white-space: nowrap;
+}
+.component-42 {
+  height: 36px;
+  width: 188px;
+  position: relative;
+  border-top: 3px solid #000;
+  border-bottom: 3px solid #000;
+  box-sizing: border-box;
+  display: none;
+}
+.component-7-child,
+.home14 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.component-7-child {
+  right: 0;
+  bottom: 0;
+  display: none;
+}
+.home14 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+.component-7 {
+  height: 36px;
+  width: 186px;
+  position: relative;
+  border: 3px solid #b76e79;
+  box-sizing: border-box;
+  display: none;
+}
+.maa-vaishnavi-recipes-high-res-icon2 {
+  height: 58.2px;
+  width: 300px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+}
+.frame-child43 {
+  height: 5px;
+  width: 1440px;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  max-width: 100%;
+}
+.component-1-child1,
+.home15 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.component-1-child1 {
+  right: 0;
+  bottom: 0;
+  display: none;
+}
+.home15 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 70px;
+}
+.component-13 {
+  height: 36px;
+  width: 70px;
+  position: relative;
+  border-top: 3px solid #b76e79;
+  border-bottom: 3px solid #b76e79;
+  box-sizing: border-box;
+  display: none;
+  cursor: pointer;
+}
+.component-2-child1,
+.home16 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.component-2-child1 {
+  right: 0;
+  bottom: 0;
+  display: none;
+}
+.home16 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 100px;
+}
+.component-23 {
+  height: 36px;
+  width: 100px;
+  position: relative;
+  border-top: 3px solid #000;
+  border-bottom: 3px solid #000;
+  box-sizing: border-box;
+  display: none;
+}
+.component-3-child1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: none;
+}
+.home17 {
+  position: absolute;
+  top: 3.33%;
+  left: 2.7%;
+  cursor: pointer;
+}
+.component-33 {
+  height: 36px;
+  width: 148px;
+  position: relative;
+  border-top: 3px solid #000;
+  border-bottom: 3px solid #000;
+  box-sizing: border-box;
+  display: none;
+}
+.component-4-child1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: none;
+}
+.home18 {
+  position: absolute;
+  top: 3.33%;
+  left: 0.53%;
+  white-space: nowrap;
+}
+.component-43 {
+  height: 36px;
+  width: 188px;
+  position: relative;
+  border-top: 3px solid #000;
+  border-bottom: 3px solid #000;
+  box-sizing: border-box;
+  display: none;
+}
+.component-6-inner {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: none;
+}
+.home19 {
+  position: absolute;
+  top: 3.33%;
+  left: 1.11%;
+  white-space: nowrap;
+}
+.component-62 {
+  height: 36px;
+  width: 186px;
+  position: relative;
+  border: 3px solid #b76e79;
+  box-sizing: border-box;
+  display: none;
+}
+.maa-vaishnavi-recipes-high-res-icon3 {
+  height: 60.4px;
+  width: 300px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+}
+.frame-child44 {
+  height: 5px;
+  width: 1440px;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  max-width: 100%;
+}
+.maa-vaishnavi-recipes-high-res-icon4 {
+  height: 65px;
+  width: 287px;
+  position: relative;
+  object-fit: cover;
+}
+.component-1-child2 {
+  height: 30px;
+  width: 70px;
+  position: relative;
+  display: none;
+}
+.home20 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 70px;
+  z-index: 1;
+}
+.component-14 {
+  height: 36px;
+  width: 70px;
+  border-top: 3px solid #b76e79;
+  border-bottom: 3px solid #b76e79;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.component-2-child2 {
+  height: 30px;
+  width: 100px;
+  position: relative;
+  display: none;
+}
+.home21 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 100px;
+  z-index: 1;
+}
+.component-24 {
+  height: 36px;
+  width: 100px;
+  border-top: 3px solid #000;
+  border-bottom: 3px solid #000;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-3-child2 {
+  height: 30px;
+  width: 148px;
+  position: relative;
+  display: none;
+}
+.home22 {
+  width: 142px;
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  z-index: 1;
+}
+.component-34 {
+  height: 36px;
+  border-top: 3px solid #000;
+  border-bottom: 3px solid #000;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 2px 0 3px;
+}
+.component-4-child2 {
+  height: 30px;
+  width: 188px;
+  position: relative;
+  display: none;
+}
+.home23 {
+  width: 186px;
+  position: relative;
+  display: inline-block;
+  white-space: nowrap;
+  z-index: 1;
+}
+.component-44 {
+  height: 36px;
+  border-top: 3px solid #000;
+  border-bottom: 3px solid #000;
+  box-sizing: border-box;
+  flex-direction: row;
+  padding: 1px 1px 0;
+}
+.component-1-parent2,
+.component-44,
+.frame-wrapper11 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-1-parent2 {
+  height: 30px;
+  flex-direction: row;
+  gap: 20px;
+}
+.frame-wrapper11 {
+  flex-direction: column;
+  padding: 17px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.component-6-child1 {
+  height: 30px;
+  width: 180px;
+  position: relative;
+  display: none;
+}
+.home24 {
+  width: 176px;
+  position: relative;
+  font-size: 24px;
+  display: flex;
+  font-family: "Inria Serif";
+  color: #fff;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  z-index: 1;
+}
+.component-6-container,
+.component-63 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.component-63 {
+  cursor: pointer;
+  border: 3px solid #b76e79;
+  padding: 1px 2px 0;
+  background-color: transparent;
+  width: 186px;
+  height: 36px;
+  flex-direction: row;
+}
+.component-63:hover {
+  background-color: rgba(158, 84, 97, 0.09);
+  border: 3px solid #9e5461;
+  box-sizing: border-box;
+}
+.component-6-container {
+  height: 46px;
+  flex-direction: column;
+  padding: 16px 0 0;
+}
+.maa-vaishnavi-recipes-high-res-group {
+  flex: 1;
+  background-color: #000;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 29px 53px 26px 33px;
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: 20px;
+  z-index: 1;
+}
+.component-1-parent1 {
+  height: 115px;
+  flex: 1;
+  align-items: flex-start;
+  z-index: 2;
+}
+.component-1-container,
+.component-1-parent1,
+.desktop-2-inner,
+.frame-wrapper10 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-wrapper10 {
+  height: 120px;
+  flex: 1;
+  background-color: #000;
+  align-items: flex-end;
+  padding: 0 0 8px;
+  box-sizing: border-box;
+  z-index: 1;
+}
+.component-1-container,
+.desktop-2-inner {
+  align-items: flex-start;
+}
+.component-1-container {
+  height: 115px;
+  flex: 1;
+  z-index: 2;
+}
+.desktop-2-inner {
+  align-self: stretch;
+  height: 110px;
+  background-color: #000;
+  flex-shrink: 0;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: center;
+  font-size: 24px;
+  color: #fff;
+  font-family: "Inria Serif";
+}
+.subheading4 {
+  margin: 0;
+  height: 57px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.sub-heading4 {
+  width: 268px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name65 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.recipe-name64 {
+  width: 151px;
+  height: 29px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-input1 {
+  margin: 0;
+  height: 25px;
+  width: 22px;
+}
+.recipe-name67 {
+  height: 29px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.group-div,
+.recipe-name66 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name66 {
+  flex: 1;
+  min-width: 192px;
+}
+.group-div {
+  align-self: stretch;
+  gap: 21px;
+}
+.frame-input2 {
+  margin: 0;
+  height: 25px;
+  width: 22px;
+}
+.recipe-name69 {
+  height: 29px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.frame-parent52,
+.recipe-name68 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name68 {
+  flex: 1;
+  min-width: 192px;
+}
+.frame-parent52 {
+  align-self: stretch;
+  gap: 21px;
+}
+.frame-input3 {
+  margin: 0;
+  height: 25px;
+  width: 22px;
+}
+.recipe-name71 {
+  height: 29px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.frame-parent53,
+.recipe-name70 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name70 {
+  flex: 1;
+  min-width: 192px;
+}
+.frame-parent53 {
+  align-self: stretch;
+  gap: 20px;
+}
+.frame-input4 {
+  margin: 0;
+  height: 25px;
+  width: 22px;
+}
+.recipe-name73 {
+  height: 29px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.frame-parent54,
+.recipe-name72 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name72 {
+  flex: 1;
+  min-width: 192px;
+}
+.frame-parent54 {
+  align-self: stretch;
+  gap: 21px;
+}
+.frame-input5 {
+  margin: 0;
+  height: 25px;
+  width: 22px;
+}
+.recipe-name75 {
+  height: 29px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.frame-parent55,
+.recipe-name74 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name74 {
+  flex: 1;
+  min-width: 192px;
+}
+.frame-parent55 {
+  align-self: stretch;
+  gap: 21px;
+}
+.frame-input6 {
+  margin: 0;
+  height: 25px;
+  width: 22px;
+}
+.recipe-name77 {
+  height: 29px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.frame-parent56,
+.recipe-name76 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name76 {
+  flex: 1;
+  min-width: 192px;
+}
+.frame-parent56 {
+  align-self: stretch;
+  gap: 21px;
+}
+.component-10,
+.recipe-name-parent5 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.component-10 {
+  align-self: stretch;
+  background-color: #fff;
+  align-items: flex-end;
+  padding: 0 0 587px 6px;
+  box-sizing: border-box;
+  min-height: 761px;
+}
+.recipe-name-parent5 {
+  width: 345px;
+  align-items: flex-start;
+  gap: 16px;
+  min-width: 345px;
+  max-width: 100%;
+}
+.frame-child45,
+.recipe-name79 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+.frame-child45 {
+  border-radius: 20px;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.recipe-name79 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-overflow: ellipsis;
+}
+.instance-parent11,
+.recipe-name78 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name78 {
+  height: 29px;
+  flex-direction: row;
+}
+.instance-parent11 {
+  width: 300px;
+  flex-shrink: 0;
+  flex-direction: column;
+  cursor: pointer;
+}
+.frame-child46,
+.recipe-name81 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+.frame-child46 {
+  border-radius: 20px;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.recipe-name81 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-overflow: ellipsis;
+}
+.instance-parent12,
+.recipe-name80 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name80 {
+  height: 29px;
+  flex-direction: row;
+}
+.instance-parent12 {
+  width: 300px;
+  flex-shrink: 0;
+  flex-direction: column;
+  cursor: pointer;
+}
+.frame-child47,
+.recipe-name83 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+.frame-child47 {
+  border-radius: 20px;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.recipe-name83 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-overflow: ellipsis;
+}
+.frame-parent58,
+.instance-parent13,
+.recipe-name82 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name82 {
+  align-self: stretch;
+  height: 29px;
+  flex-direction: row;
+}
+.frame-parent58,
+.instance-parent13 {
+  flex-shrink: 0;
+}
+.instance-parent13 {
+  align-self: stretch;
+  width: 300px;
+  flex-direction: column;
+  cursor: pointer;
+}
+.frame-parent58 {
+  width: 972px;
+  height: 329px;
+  overflow-x: auto;
+  flex-direction: row;
+  gap: 36px;
+  max-width: 100%;
+}
+.frame-child48,
+.recipe-name85 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+.frame-child48 {
+  border-radius: 20px;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.recipe-name85 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-overflow: ellipsis;
+}
+.instance-parent14,
+.recipe-name84 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name84 {
+  height: 29px;
+  flex-direction: row;
+}
+.instance-parent14 {
+  width: 300px;
+  flex-shrink: 0;
+  flex-direction: column;
+  cursor: pointer;
+}
+.frame-child49,
+.recipe-name87 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+.frame-child49 {
+  border-radius: 20px;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.recipe-name87 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-overflow: ellipsis;
+}
+.instance-parent15,
+.recipe-name86 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name86 {
+  height: 29px;
+  flex-direction: row;
+}
+.instance-parent15 {
+  width: 300px;
+  flex-shrink: 0;
+  flex-direction: column;
+  cursor: pointer;
+}
+.frame-child50,
+.recipe-name89 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+.frame-child50 {
+  border-radius: 20px;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.recipe-name89 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-overflow: ellipsis;
+}
+.frame-parent59,
+.instance-parent16,
+.recipe-name88 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name88 {
+  align-self: stretch;
+  height: 29px;
+  flex-direction: row;
+}
+.frame-parent59,
+.instance-parent16 {
+  flex-shrink: 0;
+}
+.instance-parent16 {
+  align-self: stretch;
+  width: 300px;
+  flex-direction: column;
+  cursor: pointer;
+}
+.frame-parent59 {
+  width: 972px;
+  height: 329px;
+  overflow-x: auto;
+  flex-direction: row;
+  gap: 36px;
+  max-width: 100%;
+}
+.frame-child51,
+.recipe-name91 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+.frame-child51 {
+  border-radius: 20px;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.recipe-name91 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-overflow: ellipsis;
+}
+.instance-parent17,
+.recipe-name90 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name90 {
+  height: 29px;
+  flex-direction: row;
+}
+.instance-parent17 {
+  width: 300px;
+  flex-shrink: 0;
+  flex-direction: column;
+  cursor: pointer;
+}
+.frame-child52,
+.recipe-name93 {
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+.frame-child52 {
+  align-self: stretch;
+  border-radius: 20px;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.recipe-name93 {
+  height: 29px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-overflow: ellipsis;
+}
+.instance-parent18,
+.recipe-name92 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.instance-parent18 {
+  width: 300px;
+  flex-shrink: 0;
+  flex-direction: column;
+  cursor: pointer;
+}
+.frame-child53,
+.recipe-name95 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+.frame-child53 {
+  border-radius: 20px;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.recipe-name95 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-overflow: ellipsis;
+}
+.frame-parent60,
+.instance-parent19,
+.recipe-name94 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name94 {
+  align-self: stretch;
+  height: 29px;
+  flex-direction: row;
+}
+.frame-parent60,
+.instance-parent19 {
+  flex-shrink: 0;
+}
+.instance-parent19 {
+  align-self: stretch;
+  width: 300px;
+  flex-direction: column;
+  cursor: pointer;
+}
+.frame-parent60 {
+  width: 972px;
+  height: 329px;
+  overflow-x: auto;
+  flex-direction: row;
+  gap: 36px;
+  max-width: 100%;
+}
+.frame-child54,
+.recipe-name97 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+.frame-child54 {
+  border-radius: 20px;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.recipe-name97 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-overflow: ellipsis;
+}
+.instance-parent20,
+.recipe-name96 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name96 {
+  height: 29px;
+  flex-direction: row;
+}
+.instance-parent20 {
+  width: 300px;
+  flex-shrink: 0;
+  flex-direction: column;
+  cursor: pointer;
+}
+.frame-child55,
+.recipe-name99 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+.frame-child55 {
+  border-radius: 20px;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.recipe-name99 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-overflow: ellipsis;
+}
+.instance-parent21,
+.recipe-name98 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name98 {
+  height: 29px;
+  flex-direction: row;
+}
+.instance-parent21 {
+  width: 300px;
+  flex-shrink: 0;
+  flex-direction: column;
+  cursor: pointer;
+}
+.frame-child56,
+.recipe-name101 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+.frame-child56 {
+  border-radius: 20px;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.recipe-name101 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-overflow: ellipsis;
+}
+.frame-parent61,
+.instance-parent22,
+.recipe-name100 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name100 {
+  align-self: stretch;
+  height: 29px;
+  flex-direction: row;
+}
+.frame-parent61,
+.instance-parent22 {
+  flex-shrink: 0;
+}
+.instance-parent22 {
+  align-self: stretch;
+  width: 300px;
+  flex-direction: column;
+  cursor: pointer;
+}
+.frame-parent61 {
+  width: 972px;
+  height: 329px;
+  overflow-x: auto;
+  flex-direction: row;
+  gap: 36px;
+  max-width: 100%;
+}
+.frame-child57,
+.recipe-name103 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+.frame-child57 {
+  border-radius: 20px;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.recipe-name103 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-overflow: ellipsis;
+}
+.instance-parent23,
+.recipe-name102 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name102 {
+  height: 29px;
+  flex-direction: row;
+}
+.instance-parent23 {
+  width: 300px;
+  flex-shrink: 0;
+  flex-direction: column;
+  cursor: pointer;
+}
+.frame-child58,
+.recipe-name105 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+.frame-child58 {
+  border-radius: 20px;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.recipe-name105 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-overflow: ellipsis;
+}
+.instance-parent24,
+.recipe-name104 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name104 {
+  height: 29px;
+  flex-direction: row;
+}
+.instance-parent24 {
+  width: 300px;
+  flex-shrink: 0;
+  flex-direction: column;
+  cursor: pointer;
+}
+.frame-child59,
+.recipe-name107 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+.frame-child59 {
+  border-radius: 20px;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.recipe-name107 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-overflow: ellipsis;
+}
+.frame-parent62,
+.instance-parent25,
+.recipe-name106 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name106 {
+  align-self: stretch;
+  height: 29px;
+  flex-direction: row;
+}
+.frame-parent62,
+.instance-parent25 {
+  flex-shrink: 0;
+}
+.instance-parent25 {
+  align-self: stretch;
+  width: 300px;
+  flex-direction: column;
+  cursor: pointer;
+}
+.frame-parent62 {
+  width: 972px;
+  height: 329px;
+  overflow-x: auto;
+  flex-direction: row;
+  gap: 36px;
+  max-width: 100%;
+}
+.icon-parkarrow-up {
+  height: 29px;
+  width: 29px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  min-height: 29px;
+}
+.previous {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 115px;
+}
+.icon-parkarrow-up-parent {
+  width: 194px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 11px 20px 10px;
+  box-sizing: border-box;
+  gap: 10px;
+  color: #fff;
+}
+.b6 {
+  width: 9px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 9px;
+}
+.wrapper {
+  width: 50px;
+  border: 1px solid #080;
+  box-sizing: border-box;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 19px 11px 20px;
+  color: #000;
+}
+.b7 {
+  width: 13px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 13px;
+}
+.container {
+  width: 50px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 18px 11px;
+  box-sizing: border-box;
+}
+.b8,
+.container,
+.frame {
+  display: flex;
+}
+.b8 {
+  width: 13px;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  min-width: 13px;
+}
+.frame {
+  width: 50px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 18px 11px;
+  box-sizing: border-box;
+}
+.next {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 60px;
+}
+.icon-parkarrow-up1 {
+  height: 29px;
+  width: 29px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  min-height: 29px;
+}
+.instance-parent26,
+.next-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.next-parent {
+  width: 139px;
+  overflow: hidden;
+  flex-shrink: 0;
+  justify-content: flex-start;
+  padding: 11px 20px 10px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.instance-parent26 {
+  align-self: stretch;
+  justify-content: space-between;
+  padding: 0 124.5px;
+  gap: 20px;
+  color: #080;
+}
+.frame-parent57 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 26px;
+  box-sizing: border-box;
+  gap: 50px;
+  min-width: 632px;
+  max-width: 100%;
+  text-align: center;
+}
+.frame-parent51 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 16px;
+  font-size: 24px;
+  font-family: "Inria Serif";
+}
+.desktop-2-child,
+.frame-parent51,
+.sub-heading-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.sub-heading-group {
+  flex: 1;
+  flex-direction: column;
+  gap: 16px;
+  text-align: left;
+  font-size: 36px;
+  color: #000;
+  font-family: "Inknut Antiqua";
+}
+.desktop-2-child {
+  width: 1427px;
+  flex-direction: row;
+  padding: 0 47px 73px;
+  box-sizing: border-box;
+}
+.desktop-2-item,
+.recipe-name109 {
+  position: relative;
+  overflow: hidden;
+}
+.desktop-2-item {
+  align-self: stretch;
+  height: 5px;
+  background-color: #fff;
+  flex-shrink: 0;
+  display: none;
+}
+.recipe-name109 {
+  height: 29px;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  text-overflow: ellipsis;
+}
+.recipe-name108 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-width: 205px;
+  max-width: 223px;
+}
+.recipe-name111 {
+  height: 29px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.recipe-name110 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-width: 205px;
+  max-width: 222px;
+}
+.recipe-name113 {
+  height: 29px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.recipe-name112 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-width: 205px;
+  max-width: 223px;
+}
+.recipe-name115 {
+  height: 29px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  cursor: pointer;
+}
+.recipe-display,
+.recipe-name114 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name114 {
+  flex: 1;
+  min-width: 205px;
+  max-width: 222px;
+}
+.recipe-display {
+  width: 1040px;
+  flex-wrap: wrap;
+  gap: 50px;
+  max-width: 100%;
+}
+.divider,
+.recipe-name117 {
+  position: relative;
+  max-width: 100%;
+}
+.divider {
+  width: 1041px;
+  height: 1px;
+  border-top: 1px solid #fff;
+  box-sizing: border-box;
+}
+.recipe-name117 {
+  height: 29px;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.recipe-name116 {
+  width: 1040px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+  text-align: center;
+}
+.desktop-2,
+.recipe-navigator {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.recipe-navigator {
+  align-self: stretch;
+  background-color: #000;
+  align-items: center;
+  padding: 50px 20px;
+  box-sizing: border-box;
+  gap: 20.5px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 24px;
+  color: #fff;
+  font-family: "Inria Serif";
+}
+.desktop-2 {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  align-items: flex-start;
+  gap: 27px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .recipe-name-parent5 {
+    flex: 1;
+  }
+  .frame-parent51 {
+    flex-wrap: wrap;
+  }
+  .desktop-2-child {
+    padding-bottom: 47px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .component-1-parent2 {
+    display: none;
+  }
+  .subheading4 {
+    font-size: 29px;
+  }
+  .instance-parent26 {
+    flex-wrap: wrap;
+    padding-left: 62px;
+    padding-right: 62px;
+    box-sizing: border-box;
+  }
+  .desktop-2-child {
+    padding-bottom: 31px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .maa-vaishnavi-recipes-high-res-group {
+    padding-right: 26px;
+    box-sizing: border-box;
+  }
+  .component-10 {
+    padding-bottom: 382px;
+    box-sizing: border-box;
+  }
+  .recipe-name-parent5 {
+    min-width: 100%;
+  }
+  .frame-parent58,
+  .frame-parent59,
+  .frame-parent60,
+  .frame-parent61,
+  .frame-parent62 {
+    gap: 18px;
+  }
+  .instance-parent26 {
+    padding-left: 31px;
+    padding-right: 31px;
+    box-sizing: border-box;
+  }
+  .frame-parent57 {
+    gap: 25px;
+    min-width: 100%;
+  }
+  .desktop-2-child {
+    padding-left: 23px;
+    padding-right: 23px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+  .recipe-display {
+    gap: 25px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .subheading4 {
+    font-size: 22px;
+  }
+  .recipe-name65,
+  .recipe-name67 {
+    font-size: 19px;
+  }
+  .group-div {
+    flex-wrap: wrap;
+  }
+  .recipe-name69 {
+    font-size: 19px;
+  }
+  .frame-parent52 {
+    flex-wrap: wrap;
+  }
+  .recipe-name71 {
+    font-size: 19px;
+  }
+  .frame-parent53 {
+    flex-wrap: wrap;
+  }
+  .recipe-name73 {
+    font-size: 19px;
+  }
+  .frame-parent54 {
+    flex-wrap: wrap;
+  }
+  .recipe-name75 {
+    font-size: 19px;
+  }
+  .frame-parent55 {
+    flex-wrap: wrap;
+  }
+  .recipe-name77 {
+    font-size: 19px;
+  }
+  .frame-parent56 {
+    flex-wrap: wrap;
+  }
+  .component-10 {
+    padding-bottom: 248px;
+    box-sizing: border-box;
+  }
+  .b6,
+  .b7,
+  .b8,
+  .next,
+  .previous,
+  .recipe-name101,
+  .recipe-name103,
+  .recipe-name105,
+  .recipe-name107,
+  .recipe-name109,
+  .recipe-name111,
+  .recipe-name113,
+  .recipe-name115,
+  .recipe-name117,
+  .recipe-name79,
+  .recipe-name81,
+  .recipe-name83,
+  .recipe-name85,
+  .recipe-name87,
+  .recipe-name89,
+  .recipe-name91,
+  .recipe-name93,
+  .recipe-name95,
+  .recipe-name97,
+  .recipe-name99 {
+    font-size: 19px;
+  }
+}

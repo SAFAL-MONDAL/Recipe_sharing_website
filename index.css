@@ -1,0 +1,4908 @@
+.frame-child {
+  height: 5px;
+  width: 1440px;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  max-width: 100%;
+}
+.component-1-child,
+.home {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.component-1-child {
+  right: 0;
+  bottom: 0;
+  display: none;
+}
+.home {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 70px;
+}
+.component-1 {
+  height: 36px;
+  width: 70px;
+  position: relative;
+  border-top: 3px solid #b76e79;
+  border-bottom: 3px solid #b76e79;
+  box-sizing: border-box;
+  display: none;
+  cursor: pointer;
+}
+.component-2-child,
+.home1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.component-2-child {
+  right: 0;
+  bottom: 0;
+  display: none;
+}
+.home1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 100px;
+}
+.component-2 {
+  height: 36px;
+  width: 100px;
+  position: relative;
+  border-top: 3px solid #000;
+  border-bottom: 3px solid #000;
+  box-sizing: border-box;
+  display: none;
+}
+.component-3-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: none;
+}
+.home2 {
+  position: absolute;
+  top: 3.33%;
+  left: 2.7%;
+  cursor: pointer;
+}
+.component-3 {
+  height: 36px;
+  width: 148px;
+  position: relative;
+  border-top: 3px solid #000;
+  border-bottom: 3px solid #000;
+  box-sizing: border-box;
+  display: none;
+}
+.component-4-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: none;
+}
+.home3 {
+  position: absolute;
+  top: 3.33%;
+  left: 0.53%;
+  white-space: nowrap;
+ 
+}
+.component-4 {
+  height: 36px;
+  width: 188px;
+  position: relative;
+  border-top: 3px solid #000;
+  border-bottom: 3px solid #000;
+  box-sizing: border-box;
+  display: none;
+}
+.component-6-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: none;
+}
+.home4 {
+  position: absolute;
+  top: 3.33%;
+  left: 1.11%;
+  white-space: nowrap;
+}
+.component-6 {
+  height: 36px;
+  width: 186px;
+  position: relative;
+  border: 3px solid #b76e79;
+  box-sizing: border-box;
+  display: none;
+}
+.maa-vaishnavi-recipes-high-res-icon {
+  height: 60.4px;
+  width: 300px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+}
+.frame-item {
+  height: 5px;
+  width: 1440px;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  max-width: 100%;
+}
+.maa-vaishnavi-recipes-high-res-icon1 {
+  height: 65px;
+  width: 287px;
+  position: relative;
+  object-fit: cover;
+}
+.component-1-item {
+  height: 30px;
+  width: 70px;
+  position: relative;
+  display: none;
+}
+.home5 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 70px;
+  z-index: 1;
+}
+.component-11 {
+  height: 36px;
+  width: 70px;
+  border-top: 3px solid #b76e79;
+  border-bottom: 3px solid #b76e79;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.component-2-item {
+  height: 30px;
+  width: 100px;
+  position: relative;
+  display: none;
+}
+.home6 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 100px;
+  z-index: 1;
+  cursor: pointer;
+}
+.component-21 {
+  height: 36px;
+  width: 100px;
+  border-top: 3px solid #000;
+  border-bottom: 3px solid #000;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  
+}
+.component-3-item {
+  height: 30px;
+  width: 148px;
+  position: relative;
+  display: none;
+}
+.home7 {
+  width: 142px;
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  z-index: 1;
+}
+.component-31 {
+  height: 36px;
+  border-top: 3px solid #000;
+  border-bottom: 3px solid #000;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 2px 0 3px;
+}
+.component-4-item {
+  height: 30px;
+  width: 188px;
+  position: relative;
+  display: none;
+  
+}
+.home8 {
+  width: 186px;
+  position: relative;
+  display: inline-block;
+  white-space: nowrap;
+  z-index: 1;
+  cursor: pointer;
+}
+.component-41 {
+  height: 36px;
+  border-top: 3px solid #000000;
+  border-bottom: 3px solid #020202;
+  box-sizing: border-box;
+  flex-direction: row;
+  padding: 1px 1px 0;
+  cursor: pointer;
+}
+
+.component-1-group,
+.component-41,
+.frame-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-1-group {
+  height: 30px;
+  flex-direction: row;
+  gap: 20px;
+}
+.frame-container {
+  flex-direction: column;
+  padding: 17px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.component-6-item {
+  height: 30px;
+  width: 180px;
+  position: relative;
+  display: none;
+}
+.home9 {
+  width: 176px;
+  position: relative;
+  font-size: 24px;
+  display: flex;
+  font-family: "Inria Serif";
+  color: #fff;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  z-index: 1;
+}
+.component-6-wrapper,
+.component-61 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.component-61 {
+  cursor: pointer;
+  border: 3px solid #b76e79;
+  padding: 1px 2px 0;
+  background-color: transparent;
+  width: 186px;
+  height: 36px;
+  flex-direction: row;
+}
+.component-61:hover {
+  background-color: rgba(158, 84, 97, 0.09);
+  border: 3px solid #9e5461;
+  box-sizing: border-box;
+}
+.component-6-wrapper {
+  height: 46px;
+  flex-direction: column;
+  padding: 16px 0 0;
+}
+.maa-vaishnavi-recipes-high-res-parent {
+  flex: 1;
+  background-color: #000;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 29px 53px 26px 33px;
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: 20px;
+  z-index: 1;
+}
+.component-1-parent,
+.frame-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.component-1-parent {
+  height: 115px;
+  overflow: hidden;
+  align-items: flex-start;
+  max-width: 100%;
+  z-index: 2;
+}
+.frame-wrapper {
+  height: 120px;
+  background-color: #000;
+  align-items: flex-end;
+  padding: 0 0 8px;
+  box-sizing: border-box;
+  z-index: 1;
+}
+.frame-parent,
+.frame-wrapper,
+.image-19-icon {
+  max-width: 100%;
+  overflow: hidden;
+}
+.frame-parent {
+  align-self: stretch;
+  height: 115px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 2;
+  text-align: center;
+  font-size: 24px;
+  color: #fff;
+  font-family: "Inria Serif";
+}
+.image-19-icon {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  object-fit: cover;
+}
+.span {
+  color: #000;
+}
+.your-ultimate {
+  text-transform: uppercase;
+}
+.recipe-destination {
+  font-weight: 800;
+  color: #00b2ff;
+}
+.subheading {
+  margin: 0 !important;
+  width: 886px;
+  position: absolute;
+  top: calc(50% - 46.5px);
+  left: 13px;
+  font-size: inherit;
+  display: inline-block;
+  font-family: inherit;
+}
+.sub-heading {
+  align-self: stretch;
+  height: 57px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  z-index: 1;
+}
+.paragraph1 {
+  flex: 1;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  max-width: 100%;
+}
+.paragraph,
+.paragraph-wrapper,
+.sub-heading-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.paragraph {
+  flex: 1;
+  flex-direction: row;
+  z-index: 1;
+}
+.paragraph-wrapper,
+.sub-heading-parent {
+  box-sizing: border-box;
+}
+.paragraph-wrapper {
+  width: 789px;
+  flex-direction: row;
+  padding: 0 15px;
+  text-align: left;
+  font-size: 24px;
+}
+.sub-heading-parent {
+  width: 933px;
+  flex-direction: column;
+  padding: 0 20px 0 0;
+  gap: 9px;
+}
+.search-child {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50px;
+  background-color: #000;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+}
+.search-item {
+  width: 185px;
+  border: 0;
+  outline: 0;
+  background-color: transparent;
+  height: 43px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 0 0;
+  box-sizing: border-box;
+  font-family: "Inknut Antiqua";
+  font-size: 18px;
+  color: #fff;
+}
+.search-inner {
+  height: 48px;
+  width: 75px;
+  position: relative;
+  border-radius: 0 50px 50px 0;
+  background-color: #fff;
+  z-index: 1;
+}
+.icoutline-search-icon {
+  height: 25px;
+  width: 25px;
+  position: absolute;
+  margin: 0 !important;
+  right: 26px;
+  bottom: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.search,
+.search-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.search {
+  width: 500px;
+  justify-content: space-between;
+  padding: 1px 1px 1px 15px;
+  position: relative;
+  gap: 20px;
+  z-index: 1;
+  cursor: inherit;
+}
+.search-wrapper {
+  width: 770px;
+  justify-content: center;
+  padding: 0 20px;
+}
+.wrapper-group-13-child {
+  width: 100%;
+  height: 100%;
+  z-index: 3;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 4px;
+  transform: scale(1.16);
+}
+.wrapper-group-13 {
+  width: 100px;
+  height: 200px;
+  position: absolute;
+  margin: 0 !important;
+  right: 50px;
+  bottom: -100px;
+  z-index: 3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image-19-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 100px 0 175px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 43px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 36px;
+  color: #fff;
+  font-family: "Inknut Antiqua";
+}
+.component-8-child,
+.component-8-inner,
+.component-8-item,
+.frame-icon {
+  position: relative;
+  border-radius: 20px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 400px;
+}
+.component-8 {
+  width: 100%;
+  margin: 0 !important;
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: grid;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 46px 29px 47px;
+  box-sizing: border-box;
+  gap: 49px;
+  max-width: 100%;
+  grid-template-columns: repeat(4, minmax(225px, 1fr));
+  z-index: 1;
+}
+.frame-inner {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 50%;
+  background-color: #fff;
+  cursor: pointer;
+}
+.frame-icon1 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  z-index: 2;
+}
+.ellipse-parent,
+.recipe-name1 {
+  flex: 1;
+  position: relative;
+  display: flex;
+}
+.ellipse-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 75px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name1 {
+  align-self: stretch;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.recipe-name,
+.recipe-name-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.recipe-name {
+  width: 320px;
+  justify-content: flex-start;
+  padding: 0 0 0 20px;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.recipe-name-wrapper {
+  height: 29px;
+  justify-content: flex-end;
+}
+.frame-parent1 {
+  height: 267px;
+  width: 347px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 163px;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.recipe-name3 {
+  height: 29px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.recipe-name2 {
+  width: 300px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+  z-index: 2;
+}
+.recipe-name5 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.recipe-name4 {
+  height: 29px;
+  width: 300px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+  z-index: 2;
+}
+.ellipse-div {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.frame-icon2 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  z-index: 2;
+}
+.ellipse-group,
+.recipe-name7 {
+  flex: 1;
+  position: relative;
+  display: flex;
+}
+.ellipse-group {
+  width: 75px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name7 {
+  align-self: stretch;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.recipe-name6 {
+  align-self: stretch;
+  width: 320px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+  z-index: 2;
+}
+.frame-parent3,
+.recipe-name-container,
+.recipe-name6 {
+  display: flex;
+  justify-content: flex-start;
+}
+.recipe-name-container {
+  align-self: stretch;
+  height: 29px;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frame-parent3 {
+  height: 273px;
+  width: 346px;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 169px;
+  max-width: 100%;
+}
+.output-generator-icon,
+.output-generator-icon1,
+.output-generator-icon2,
+.output-generator-icon3 {
+  position: relative;
+  border-radius: 20px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 400px;
+}
+.component-9 {
+  flex: 1;
+  display: grid;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 46px 29px 47px;
+  box-sizing: border-box;
+  gap: 49px;
+  min-width: 936px;
+  max-width: 100%;
+  grid-template-columns: repeat(4, minmax(225px, 1fr));
+}
+.component-8-parent,
+.frame-parent2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+}
+.frame-parent2 {
+  width: 1786px;
+  justify-content: center;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.component-8-parent {
+  width: 1440px;
+  justify-content: flex-start;
+  position: relative;
+  gap: 49px;
+  max-width: 100%;
+}
+.condition-checker-child {
+  width: 75px;
+  flex: 1;
+  position: relative;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.recipe-name9 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.recipe-name-frame,
+.recipe-name8 {
+  flex-direction: row;
+  align-items: flex-start;
+}
+.recipe-name8 {
+  align-self: stretch;
+  width: 300px;
+  display: flex;
+  justify-content: flex-start;
+}
+.recipe-name-frame {
+  width: 0;
+  height: 29px;
+  padding: 0 0 0 47px;
+  box-sizing: border-box;
+}
+.condition-checker,
+.frame-div,
+.recipe-name-frame {
+  display: flex;
+  justify-content: flex-start;
+}
+.condition-checker {
+  height: 273px;
+  width: 0;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  gap: 169px;
+}
+.frame-div {
+  flex-direction: row;
+  align-items: flex-end;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.recipe-name11 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.recipe-name10 {
+  height: 29px;
+  width: 300px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name13 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.recipe-name12 {
+  height: 29px;
+  width: 300px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.error-handler {
+  width: 95px;
+  flex: 1;
+  position: relative;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.recipe-name15 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.recipe-name14 {
+  align-self: stretch;
+  width: 320px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 20px 0 0;
+  box-sizing: border-box;
+}
+.recipe-name14,
+.sequence-controller,
+.signal-emitter {
+  display: flex;
+  justify-content: flex-start;
+}
+.sequence-controller {
+  align-self: stretch;
+  height: 29px;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.signal-emitter {
+  height: 273px;
+  width: 346px;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 169px;
+  max-width: 100%;
+}
+.desktop-1-inner,
+.frame-group,
+.function-applier {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.function-applier {
+  align-items: flex-end;
+  gap: 49px;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.desktop-1-inner,
+.frame-group {
+  box-sizing: border-box;
+}
+.frame-group {
+  width: 1440px;
+  overflow-x: auto;
+  flex-shrink: 0;
+  align-items: flex-end;
+  padding: 30px 0 0;
+  gap: 396px;
+}
+.desktop-1-inner {
+  align-items: flex-start;
+  padding: 0 0 78px;
+  text-align: center;
+  font-size: 24px;
+  color: #000;
+  font-family: "Inria Serif";
+}
+.subheading1 {
+  margin: 0;
+  height: 57px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+}
+.sub-heading-wrapper,
+.sub-heading1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.sub-heading1 {
+  flex: 1;
+}
+.sub-heading-wrapper {
+  width: 598px;
+  padding: 0 5px;
+  box-sizing: border-box;
+}
+.button1 {
+  height: 38px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+}
+.button {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  font-size: 18px;
+}
+.button,
+.frame-parent4,
+.shape-creator-inner {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent4 {
+  width: 648px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.shape-creator-inner {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 0 21px;
+  box-sizing: border-box;
+}
+.instance-child,
+.instance-item {
+  position: absolute;
+  margin: 0 !important;
+}
+.instance-child {
+  width: 100%;
+  height: 200px;
+  top: 70px;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.instance-item {
+  width: 25px;
+  height: 25px;
+  top: 80px;
+  left: 10px;
+  border-radius: 50%;
+  background-color: #0b0088;
+  z-index: 1;
+}
+.ellipse-icon {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.button3 {
+  height: 23px;
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 66px;
+}
+.button-wrapper,
+.button2 {
+  display: flex;
+  align-items: flex-start;
+}
+.button2 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.button-wrapper {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 13px;
+}
+.ellipse-container {
+  width: 116px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.follow1 {
+  position: relative;
+  display: inline-block;
+  min-width: 54px;
+}
+.follow {
+  flex-direction: row;
+}
+.follow,
+.follow-wrapper,
+.frame-parent6 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.follow-wrapper {
+  flex-direction: column;
+  padding: 14px 0 0;
+  text-align: justify;
+  color: #0b0088;
+  font-family: "Inria Serif";
+}
+.frame-parent6 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 10px;
+  gap: 77px;
+}
+.new {
+  height: 25px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 25px;
+  z-index: 2;
+}
+.data-collector,
+.frame-parent5 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.data-collector {
+  width: 45px;
+  flex-direction: row;
+  padding: 0 10px;
+  box-sizing: border-box;
+  font-size: 10px;
+  color: #fff;
+  font-family: "Inria Serif";
+}
+.frame-parent5 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 10px;
+}
+.rule-engine-icon {
+  width: 12px;
+  height: 12px;
+  position: relative;
+  z-index: 2;
+}
+.value-aggregator {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.input-validator {
+  height: 29px;
+  width: 47px;
+  position: absolute;
+  margin: 0 !important;
+  top: -9px;
+  left: -22px;
+  background-color: #080;
+  z-index: 1;
+}
+.error-handler1 {
+  width: 16px;
+  position: relative;
+  display: inline-block;
+  min-width: 16px;
+  z-index: 2;
+}
+.connection-manager,
+.output-generator {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.output-generator {
+  position: relative;
+}
+.connection-manager {
+  gap: 5px;
+}
+.recipe-name17 {
+  flex: 1;
+  position: relative;
+  display: -webkit-inline-box;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+}
+.recipe-name16 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.flowbiteclock-outline-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.recipe-name19 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  font-size: 18px;
+  display: flex;
+  font-family: "Inria Serif";
+  color: #000;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.anomaly-detector,
+.recipe-name18 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name18 {
+  height: 24px;
+  flex: 1;
+  background-color: #fff;
+  white-space: nowrap;
+}
+.anomaly-detector {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 100px;
+}
+.posted-on-01012024 {
+  align-self: stretch;
+  position: relative;
+  display: inline-block;
+  min-width: 116px;
+}
+.network-manager {
+  width: 116px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 0 0;
+  box-sizing: border-box;
+}
+.clustering-engine {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.collaboration-platform {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 9px);
+  left: calc(50% - 47.5px);
+  background-color: #d9d9d9;
+}
+.read-recipe {
+  width: 85px;
+  position: relative;
+  display: inline-block;
+  min-width: 85px;
+}
+.workflow-engine {
+  overflow: hidden;
+  justify-content: flex-start;
+  z-index: 1;
+}
+.monitoring-tool,
+.performance-analyzer,
+.workflow-engine {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.performance-analyzer {
+  justify-content: flex-start;
+  position: relative;
+}
+.monitoring-tool {
+  width: 257px;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.feature-extractor,
+.regressor,
+.sound-processor {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.regressor {
+  width: 269px;
+  align-items: flex-start;
+  gap: 7px;
+  text-align: center;
+  font-size: 12px;
+}
+.feature-extractor,
+.sound-processor {
+  align-items: flex-end;
+}
+.feature-extractor {
+  align-self: stretch;
+  text-align: justify;
+  font-size: 18px;
+  color: #000;
+}
+.sound-processor {
+  flex: 1;
+  gap: 6px;
+}
+.image-analyzer,
+.instance-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.image-analyzer {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 10px;
+  font-size: 12px;
+  color: #fff;
+  font-family: "Inria Serif";
+}
+.instance-group {
+  border-radius: 20px;
+  background-color: #fff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border: 1px solid #000;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 0 0 8px;
+  position: relative;
+  gap: 145px;
+}
+.instance-inner {
+  width: 100%;
+  height: 200px;
+  position: absolute;
+  margin: 0 !important;
+  top: 70px;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.frame-child1 {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.button5 {
+  height: 23px;
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button-container,
+.button4 {
+  display: flex;
+  align-items: flex-start;
+}
+.button4 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.button-container {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 13px;
+}
+.ellipse-parent1 {
+  width: 116px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.follow3 {
+  position: relative;
+  display: inline-block;
+  min-width: 54px;
+}
+.follow2 {
+  flex-direction: row;
+}
+.follow-container,
+.follow2,
+.frame-parent8 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.follow-container {
+  flex-direction: column;
+  padding: 14px 0 0;
+  text-align: justify;
+  color: #0b0088;
+  font-family: "Inria Serif";
+}
+.frame-parent8 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 10px;
+  gap: 77px;
+}
+.frame-child2 {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #0b0088;
+  z-index: 1;
+}
+.ellipse-wrapper,
+.frame-parent7 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ellipse-wrapper {
+  flex-direction: row;
+  padding: 0 10px;
+}
+.frame-parent7 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 10px;
+  color: #000;
+  font-family: "Inknut Antiqua";
+}
+.new1 {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  margin: 0 !important;
+  top: 80px;
+  left: 10px;
+  font-size: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 25px;
+  z-index: 2;
+}
+.star-icon {
+  width: 12px;
+  height: 12px;
+  position: relative;
+  z-index: 2;
+}
+.star-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.rectangle-div {
+  height: 29px;
+  width: 47px;
+  position: absolute;
+  margin: 0 !important;
+  top: -9px;
+  left: -22px;
+  background-color: #080;
+  z-index: 1;
+}
+.b {
+  width: 16px;
+  position: relative;
+  display: inline-block;
+  min-width: 16px;
+  z-index: 2;
+}
+.frame-parent10,
+.rectangle-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-parent {
+  position: relative;
+}
+.frame-parent10 {
+  gap: 5px;
+}
+.recipe-name21 {
+  flex: 1;
+  position: relative;
+  display: -webkit-inline-box;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+}
+.recipe-name20 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.flowbiteclock-outline-icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.recipe-name23 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  font-size: 18px;
+  display: flex;
+  font-family: "Inria Serif";
+  color: #000;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.flowbiteclock-outline-parent,
+.recipe-name22 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name22 {
+  height: 24px;
+  flex: 1;
+  background-color: #fff;
+  white-space: nowrap;
+}
+.flowbiteclock-outline-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 100px;
+}
+.posted-on-010120241 {
+  align-self: stretch;
+  position: relative;
+  display: inline-block;
+  min-width: 116px;
+}
+.posted-on-01012024-wrapper {
+  width: 116px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 0 0;
+  box-sizing: border-box;
+}
+.frame-parent12 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.frame-child3 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 9px);
+  left: calc(50% - 47.5px);
+  background-color: #d9d9d9;
+}
+.read-recipe1 {
+  width: 85px;
+  position: relative;
+  display: inline-block;
+  min-width: 85px;
+}
+.read-recipe-wrapper {
+  overflow: hidden;
+  justify-content: flex-start;
+  z-index: 1;
+}
+.frame-wrapper2,
+.read-recipe-wrapper,
+.rectangle-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.rectangle-group {
+  justify-content: flex-start;
+  position: relative;
+}
+.frame-wrapper2 {
+  width: 257px;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.frame-parent11,
+.frame-parent9,
+.recipe-name-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent11 {
+  width: 269px;
+  align-items: flex-start;
+  gap: 7px;
+  text-align: center;
+  font-size: 12px;
+}
+.frame-parent9,
+.recipe-name-parent {
+  align-items: flex-end;
+}
+.recipe-name-parent {
+  align-self: stretch;
+  text-align: justify;
+  font-size: 18px;
+  color: #000;
+}
+.frame-parent9 {
+  flex: 1;
+  gap: 6px;
+}
+.frame-wrapper1,
+.instance-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper1 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 10px;
+  font-size: 12px;
+}
+.instance-container {
+  border-radius: 20px;
+  background-color: #fff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border: 1px solid #000;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 0 0 8px;
+  position: relative;
+  gap: 145px;
+  color: #fff;
+  font-family: "Inria Serif";
+}
+.instance-child1,
+.instance-child2 {
+  position: absolute;
+  margin: 0 !important;
+}
+.instance-child1 {
+  width: 100%;
+  height: 200px;
+  top: 70px;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.instance-child2 {
+  width: 25px;
+  height: 25px;
+  top: 80px;
+  left: 10px;
+  border-radius: 50%;
+  background-color: #0b0088;
+  z-index: 1;
+}
+.frame-child4 {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.button7 {
+  height: 23px;
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 78px;
+}
+.button-frame,
+.button6 {
+  display: flex;
+  align-items: flex-start;
+}
+.button6 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.button-frame {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 13px;
+}
+.ellipse-parent2 {
+  width: 128px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.follow5 {
+  position: relative;
+  display: inline-block;
+  min-width: 54px;
+}
+.follow4 {
+  flex-direction: row;
+}
+.follow-frame,
+.follow4,
+.frame-parent14 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.follow-frame {
+  flex-direction: column;
+  padding: 14px 0 0;
+  text-align: justify;
+  color: #0b0088;
+  font-family: "Inria Serif";
+}
+.frame-parent14 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 10px;
+  gap: 65px;
+}
+.new2 {
+  height: 25px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 25px;
+  z-index: 2;
+}
+.frame-parent13,
+.new-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.new-wrapper {
+  width: 45px;
+  flex-direction: row;
+  padding: 0 10px;
+  box-sizing: border-box;
+  font-size: 10px;
+  color: #fff;
+  font-family: "Inria Serif";
+}
+.frame-parent13 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 10px;
+}
+.frame-child5 {
+  width: 12px;
+  height: 12px;
+  position: relative;
+  z-index: 2;
+}
+.star-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.frame-child6 {
+  height: 29px;
+  width: 47px;
+  position: absolute;
+  margin: 0 !important;
+  top: -9px;
+  left: -22px;
+  background-color: #080;
+  z-index: 1;
+}
+.b1 {
+  width: 16px;
+  position: relative;
+  display: inline-block;
+  min-width: 16px;
+  z-index: 2;
+}
+.frame-parent16,
+.rectangle-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-container {
+  position: relative;
+}
+.frame-parent16 {
+  gap: 5px;
+}
+.recipe-name25 {
+  flex: 1;
+  position: relative;
+  display: -webkit-inline-box;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+}
+.recipe-name24 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.flowbiteclock-outline-icon2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.recipe-name27 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  font-size: 18px;
+  display: flex;
+  font-family: "Inria Serif";
+  color: #000;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.flowbiteclock-outline-group,
+.recipe-name26 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name26 {
+  height: 24px;
+  flex: 1;
+  background-color: #fff;
+  white-space: nowrap;
+}
+.flowbiteclock-outline-group {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 100px;
+}
+.posted-on-010120242 {
+  align-self: stretch;
+  position: relative;
+  display: inline-block;
+  min-width: 116px;
+}
+.posted-on-01012024-container {
+  width: 116px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 0 0;
+  box-sizing: border-box;
+}
+.frame-parent18 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.frame-child7 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 9px);
+  left: calc(50% - 47.5px);
+  background-color: #d9d9d9;
+}
+.read-recipe2 {
+  width: 85px;
+  position: relative;
+  display: inline-block;
+  min-width: 85px;
+}
+.read-recipe-container {
+  overflow: hidden;
+  justify-content: flex-start;
+  z-index: 1;
+}
+.frame-wrapper4,
+.read-recipe-container,
+.rectangle-parent1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.rectangle-parent1 {
+  justify-content: flex-start;
+  position: relative;
+}
+.frame-wrapper4 {
+  width: 257px;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.frame-parent15,
+.frame-parent17,
+.recipe-name-group {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent17 {
+  width: 269px;
+  align-items: flex-start;
+  gap: 7px;
+  text-align: center;
+  font-size: 12px;
+}
+.frame-parent15,
+.recipe-name-group {
+  align-items: flex-end;
+}
+.recipe-name-group {
+  align-self: stretch;
+  text-align: justify;
+  font-size: 18px;
+  color: #000;
+}
+.frame-parent15 {
+  flex: 1;
+  gap: 6px;
+}
+.frame-wrapper3,
+.instance-parent1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper3 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 10px;
+  font-size: 12px;
+  color: #fff;
+  font-family: "Inria Serif";
+}
+.instance-parent1 {
+  border-radius: 20px;
+  background-color: #fff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border: 1px solid #000;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 0 0 8px;
+  position: relative;
+  gap: 145px;
+}
+.instance-child3 {
+  width: 100%;
+  height: 200px;
+  position: absolute;
+  margin: 0 !important;
+  top: 70px;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.frame-child8 {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.button9 {
+  height: 23px;
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 83px;
+}
+.button-wrapper1,
+.button8 {
+  display: flex;
+  align-items: flex-start;
+}
+.button8 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.button-wrapper1 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 13px;
+}
+.ellipse-parent3 {
+  width: 133px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.follow7 {
+  position: relative;
+  display: inline-block;
+  min-width: 54px;
+}
+.follow6 {
+  flex-direction: row;
+}
+.follow-wrapper1,
+.follow6,
+.frame-parent20 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.follow-wrapper1 {
+  flex-direction: column;
+  padding: 14px 0 0;
+  text-align: justify;
+  color: #0b0088;
+  font-family: "Inria Serif";
+}
+.frame-parent20 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: row;
+  padding: 10px;
+  gap: 60px;
+}
+.frame-child9 {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #0b0088;
+  z-index: 1;
+}
+.ellipse-frame,
+.frame-parent19 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ellipse-frame {
+  flex-direction: row;
+  padding: 0 10px;
+}
+.frame-parent19 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 10px;
+  color: #000;
+  font-family: "Inknut Antiqua";
+}
+.new3 {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  margin: 0 !important;
+  top: 80px;
+  left: 10px;
+  font-size: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 25px;
+  z-index: 2;
+}
+.frame-child10 {
+  width: 12px;
+  height: 12px;
+  position: relative;
+  z-index: 2;
+}
+.star-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.frame-child11 {
+  height: 29px;
+  width: 47px;
+  position: absolute;
+  margin: 0 !important;
+  top: -9px;
+  left: -22px;
+  background-color: #080;
+  z-index: 1;
+}
+.b2 {
+  width: 16px;
+  position: relative;
+  display: inline-block;
+  min-width: 16px;
+  z-index: 2;
+}
+.frame-parent22,
+.rectangle-parent2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-parent2 {
+  position: relative;
+}
+.frame-parent22 {
+  gap: 5px;
+}
+.recipe-name29 {
+  flex: 1;
+  position: relative;
+  display: -webkit-inline-box;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+}
+.recipe-name28 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.flowbiteclock-outline-icon3 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.recipe-name31 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  font-size: 18px;
+  display: flex;
+  font-family: "Inria Serif";
+  color: #000;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.flowbiteclock-outline-container,
+.recipe-name30 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name30 {
+  height: 24px;
+  flex: 1;
+  background-color: #fff;
+  white-space: nowrap;
+}
+.flowbiteclock-outline-container {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 100px;
+}
+.posted-on-010120243 {
+  align-self: stretch;
+  position: relative;
+  display: inline-block;
+  min-width: 116px;
+}
+.posted-on-01012024-frame {
+  width: 116px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 0 0;
+  box-sizing: border-box;
+}
+.frame-parent24 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.frame-child12 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 9px);
+  left: calc(50% - 47.5px);
+  background-color: #d9d9d9;
+}
+.read-recipe3 {
+  width: 85px;
+  position: relative;
+  display: inline-block;
+  min-width: 85px;
+}
+.read-recipe-frame {
+  overflow: hidden;
+  justify-content: flex-start;
+  z-index: 1;
+}
+.frame-wrapper6,
+.read-recipe-frame,
+.rectangle-parent3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.rectangle-parent3 {
+  justify-content: flex-start;
+  position: relative;
+}
+.frame-wrapper6 {
+  width: 257px;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.frame-parent21,
+.frame-parent23,
+.recipe-name-parent1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent23 {
+  width: 269px;
+  align-items: flex-start;
+  gap: 7px;
+  text-align: center;
+  font-size: 12px;
+}
+.frame-parent21,
+.recipe-name-parent1 {
+  align-items: flex-end;
+}
+.recipe-name-parent1 {
+  align-self: stretch;
+  text-align: justify;
+  font-size: 18px;
+  color: #000;
+}
+.frame-parent21 {
+  flex: 1;
+  gap: 6px;
+}
+.frame-wrapper5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  padding: 0 10px;
+  font-size: 12px;
+}
+.frame-wrapper5,
+.instance-parent,
+.instance-parent2 {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.instance-parent2 {
+  border-radius: 20px;
+  background-color: #fff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border: 1px solid #000;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 8px;
+  position: relative;
+  gap: 145px;
+  color: #fff;
+  font-family: "Inria Serif";
+}
+.instance-parent {
+  align-self: stretch;
+  display: grid;
+  flex-direction: row;
+  gap: 48.3px;
+  grid-template-columns: repeat(4, minmax(225px, 1fr));
+  font-size: 18px;
+}
+.shape-creator,
+.shape-creator-wrapper {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.shape-creator {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 4px;
+}
+.shape-creator-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 48px 78px 47px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 36px;
+  color: #000;
+  font-family: "Inknut Antiqua";
+}
+.subheading2 {
+  margin: 0;
+  height: 57px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+}
+.sub-heading2 {
+  width: 588px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.button11,
+.risk-analyzer {
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+}
+.risk-analyzer {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 20px 0 25px;
+  box-sizing: border-box;
+}
+.button11 {
+  height: 38px;
+  flex: 1;
+  position: relative;
+  align-items: center;
+}
+.automation-engine,
+.button10 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.button10 {
+  width: 1105px;
+  justify-content: flex-start;
+}
+.automation-engine {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px 0 22px;
+  box-sizing: border-box;
+  font-size: 18px;
+}
+.instance-child4 {
+  width: 100%;
+  height: 270px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.dashboard-creator {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  margin: 0 !important;
+  top: 10px;
+  left: 10px;
+  border-radius: 50%;
+  background-color: #0b0088;
+  z-index: 1;
+}
+.backup-system-icon,
+.new4 {
+  position: relative;
+  z-index: 2;
+}
+.new4 {
+  width: 25px;
+  height: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  min-width: 25px;
+}
+.backup-system-icon {
+  width: 12px;
+  height: 12px;
+}
+.access-controller {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.update-checker {
+  height: 29px;
+  width: 47px;
+  position: absolute;
+  margin: 0 !important;
+  top: -9px;
+  left: -22px;
+  background-color: #080;
+  z-index: 1;
+}
+.maintenance-tool {
+  width: 16px;
+  position: relative;
+  display: inline-block;
+  min-width: 16px;
+  z-index: 2;
+}
+.update-checker-parent,
+.version-history {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.update-checker-parent {
+  position: relative;
+}
+.version-history {
+  gap: 5px;
+}
+.recipe-name33 {
+  flex: 1;
+  position: relative;
+  display: -webkit-inline-box;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+}
+.recipe-name32 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.flowbiteclock-outline-icon4 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.recipe-name35 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  font-size: 18px;
+  display: flex;
+  font-family: "Inria Serif";
+  color: #000;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.data-hub,
+.recipe-name34 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name34 {
+  height: 24px;
+  flex: 1;
+  background-color: #fff;
+  white-space: nowrap;
+}
+.data-hub {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 100px;
+}
+.posted-on-010120244 {
+  align-self: stretch;
+  position: relative;
+  display: inline-block;
+  min-width: 116px;
+}
+.posted-on-01012024-wrapper1 {
+  width: 116px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 0 0;
+  box-sizing: border-box;
+}
+.support-bot-manager {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.frame-child13 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 9px);
+  left: calc(50% - 47.5px);
+  background-color: #d9d9d9;
+}
+.read-recipe4 {
+  width: 85px;
+  position: relative;
+  display: inline-block;
+  min-width: 85px;
+}
+.read-recipe-wrapper1 {
+  overflow: hidden;
+  justify-content: flex-start;
+  z-index: 1;
+}
+.communication-platform-inner,
+.read-recipe-wrapper1,
+.rectangle-parent4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.rectangle-parent4 {
+  justify-content: flex-start;
+  position: relative;
+}
+.communication-platform-inner {
+  width: 257px;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.communication-platform {
+  width: 269px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7px;
+  text-align: center;
+  font-size: 12px;
+}
+.documentation-generator {
+  align-self: stretch;
+  align-items: flex-end;
+  text-align: justify;
+  font-size: 18px;
+  color: #000;
+}
+.commenting-tool,
+.documentation-generator,
+.instance-parent3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.commenting-tool {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: 6px;
+  font-size: 12px;
+}
+.instance-parent3 {
+  border-radius: 20px;
+  background-color: #fff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border: 1px solid #000;
+  overflow: hidden;
+  align-items: flex-start;
+  padding: 10px 9px 8px;
+  position: relative;
+  gap: 215px;
+}
+.instance-child5,
+.instance-child6 {
+  position: absolute;
+  margin: 0 !important;
+}
+.instance-child5 {
+  width: 100%;
+  height: 270px;
+  top: 0;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.instance-child6 {
+  width: 25px;
+  height: 25px;
+  top: 10px;
+  left: 10px;
+  border-radius: 50%;
+  background-color: #0b0088;
+  z-index: 1;
+}
+.frame-child14,
+.new5 {
+  position: relative;
+  z-index: 2;
+}
+.new5 {
+  width: 25px;
+  height: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  min-width: 25px;
+}
+.frame-child14 {
+  width: 12px;
+  height: 12px;
+}
+.star-wrapper1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.frame-child15 {
+  height: 29px;
+  width: 47px;
+  position: absolute;
+  margin: 0 !important;
+  top: -9px;
+  left: -22px;
+  background-color: #080;
+  z-index: 1;
+}
+.b3 {
+  width: 16px;
+  position: relative;
+  display: inline-block;
+  min-width: 16px;
+  z-index: 2;
+}
+.frame-parent26,
+.rectangle-parent5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-parent5 {
+  position: relative;
+}
+.frame-parent26 {
+  gap: 5px;
+}
+.recipe-name37 {
+  flex: 1;
+  position: relative;
+  display: -webkit-inline-box;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+}
+.recipe-name36 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.flowbiteclock-outline-icon5 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.recipe-name39 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  font-size: 18px;
+  display: flex;
+  font-family: "Inria Serif";
+  color: #000;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.frame-button,
+.recipe-name38 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name38 {
+  height: 24px;
+  flex: 1;
+  background-color: #fff;
+  white-space: nowrap;
+}
+.frame-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 100px;
+}
+.posted-on-010120245 {
+  align-self: stretch;
+  position: relative;
+  display: inline-block;
+  min-width: 116px;
+}
+.posted-on-01012024-wrapper2 {
+  width: 116px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 0 0;
+  box-sizing: border-box;
+}
+.frame-parent28 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.frame-child16 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 9px);
+  left: calc(50% - 47.5px);
+  background-color: #d9d9d9;
+}
+.read-recipe5 {
+  width: 85px;
+  position: relative;
+  display: inline-block;
+  min-width: 85px;
+}
+.read-recipe-wrapper2,
+.rectangle-parent6 {
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.read-recipe-wrapper2 {
+  overflow: hidden;
+  display: flex;
+  align-items: flex-start;
+  z-index: 1;
+}
+.rectangle-parent6 {
+  position: relative;
+}
+.frame-parent27,
+.frame-wrapper7,
+.rectangle-parent6 {
+  display: flex;
+  align-items: flex-start;
+}
+.frame-wrapper7 {
+  width: 257px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.frame-parent27 {
+  width: 269px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 7px;
+  text-align: center;
+  font-size: 12px;
+}
+.recipe-name-parent2 {
+  align-self: stretch;
+  align-items: flex-end;
+  text-align: justify;
+  font-size: 18px;
+  color: #000;
+}
+.frame-parent25,
+.instance-parent4,
+.recipe-name-parent2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent25 {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: 6px;
+  font-size: 12px;
+}
+.instance-parent4 {
+  border-radius: 20px;
+  background-color: #fff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border: 1px solid #000;
+  overflow: hidden;
+  align-items: flex-start;
+  padding: 10px 9px 8px;
+  position: relative;
+  gap: 215px;
+}
+.instance-child7 {
+  width: 100%;
+  height: 270px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.instance-child8,
+.new6 {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  margin: 0 !important;
+  top: 10px;
+  left: 10px;
+}
+.instance-child8 {
+  border-radius: 50%;
+  background-color: #0b0088;
+  z-index: 1;
+}
+.new6 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 25px;
+  z-index: 2;
+}
+.frame-child17 {
+  width: 12px;
+  height: 12px;
+  position: relative;
+  z-index: 2;
+}
+.star-wrapper2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.frame-child18 {
+  height: 29px;
+  width: 47px;
+  position: absolute;
+  margin: 0 !important;
+  top: -9px;
+  left: -22px;
+  background-color: #080;
+  z-index: 1;
+}
+.b4 {
+  width: 16px;
+  position: relative;
+  display: inline-block;
+  min-width: 16px;
+  z-index: 2;
+}
+.frame-parent30,
+.rectangle-parent7 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-parent7 {
+  position: relative;
+}
+.frame-parent30 {
+  gap: 5px;
+}
+.recipe-name41 {
+  flex: 1;
+  position: relative;
+  display: -webkit-inline-box;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+}
+.recipe-name40 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.flowbiteclock-outline-icon6 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.recipe-name43 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  font-size: 18px;
+  display: flex;
+  font-family: "Inria Serif";
+  color: #000;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.flowbiteclock-outline-parent1,
+.recipe-name42 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name42 {
+  height: 24px;
+  flex: 1;
+  background-color: #fff;
+  white-space: nowrap;
+}
+.flowbiteclock-outline-parent1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 100px;
+}
+.posted-on-010120246 {
+  align-self: stretch;
+  position: relative;
+  display: inline-block;
+  min-width: 116px;
+}
+.posted-on-01012024-wrapper3 {
+  width: 116px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 0 0;
+  box-sizing: border-box;
+}
+.frame-parent32 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.frame-child19 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 9px);
+  left: calc(50% - 47.5px);
+  background-color: #d9d9d9;
+}
+.read-recipe6 {
+  width: 85px;
+  position: relative;
+  display: inline-block;
+  min-width: 85px;
+}
+.read-recipe-wrapper3 {
+  overflow: hidden;
+  justify-content: flex-start;
+  z-index: 1;
+}
+.frame-wrapper8,
+.read-recipe-wrapper3,
+.rectangle-parent8 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.rectangle-parent8 {
+  justify-content: flex-start;
+  position: relative;
+}
+.frame-wrapper8 {
+  width: 257px;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.frame-parent29,
+.frame-parent31,
+.recipe-name-parent3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent31 {
+  width: 269px;
+  align-items: flex-start;
+  gap: 7px;
+  text-align: center;
+  font-size: 12px;
+}
+.frame-parent29,
+.recipe-name-parent3 {
+  align-self: stretch;
+  align-items: flex-end;
+}
+.recipe-name-parent3 {
+  text-align: justify;
+  font-size: 18px;
+  color: #000;
+}
+.frame-parent29 {
+  gap: 6px;
+  font-size: 12px;
+}
+.instance-parent5 {
+  border-radius: 20px;
+  background-color: #fff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border: 1px solid #000;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 250px 9px 8px;
+  position: relative;
+}
+.instance-child9 {
+  width: 100%;
+  height: 270px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.instance-child10 {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #0b0088;
+  z-index: 1;
+}
+.new7 {
+  width: 25px;
+  height: 25px;
+  position: absolute;
+  margin: 0 !important;
+  top: 10px;
+  left: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 25px;
+  z-index: 2;
+}
+.frame-child20 {
+  width: 12px;
+  height: 12px;
+  position: relative;
+  z-index: 2;
+}
+.star-wrapper3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.frame-child21 {
+  height: 29px;
+  width: 47px;
+  position: absolute;
+  margin: 0 !important;
+  top: -9px;
+  left: -22px;
+  background-color: #080;
+  z-index: 1;
+}
+.b5 {
+  width: 16px;
+  position: relative;
+  display: inline-block;
+  min-width: 16px;
+  z-index: 2;
+}
+.frame-parent34,
+.rectangle-parent9 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-parent9 {
+  position: relative;
+}
+.frame-parent34 {
+  gap: 5px;
+}
+.recipe-name45 {
+  flex: 1;
+  position: relative;
+  display: -webkit-inline-box;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+}
+.recipe-name44 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.flowbiteclock-outline-icon7 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.recipe-name47 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  font-size: 18px;
+  display: flex;
+  font-family: "Inria Serif";
+  color: #000;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.flowbiteclock-outline-parent2,
+.recipe-name46 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name46 {
+  height: 24px;
+  flex: 1;
+  background-color: #fff;
+  white-space: nowrap;
+}
+.flowbiteclock-outline-parent2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 100px;
+}
+.posted-on-010120247 {
+  align-self: stretch;
+  position: relative;
+  display: inline-block;
+  min-width: 116px;
+}
+.posted-on-01012024-wrapper4 {
+  width: 116px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 0 0;
+  box-sizing: border-box;
+}
+.frame-parent36 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+}
+.frame-child22 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 9px);
+  left: calc(50% - 47.5px);
+  background-color: #d9d9d9;
+}
+.read-recipe7 {
+  width: 85px;
+  position: relative;
+  display: inline-block;
+  min-width: 85px;
+}
+.read-recipe-wrapper4 {
+  overflow: hidden;
+  justify-content: flex-start;
+  z-index: 1;
+}
+.frame-wrapper9,
+.read-recipe-wrapper4,
+.rectangle-parent10 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.rectangle-parent10 {
+  justify-content: flex-start;
+  position: relative;
+}
+.frame-wrapper9 {
+  width: 257px;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.frame-parent33,
+.frame-parent35,
+.recipe-name-parent4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent35 {
+  width: 269px;
+  align-items: flex-start;
+  gap: 7px;
+  text-align: center;
+  font-size: 12px;
+}
+.frame-parent33,
+.recipe-name-parent4 {
+  align-self: stretch;
+  align-items: flex-end;
+}
+.recipe-name-parent4 {
+  text-align: justify;
+  font-size: 18px;
+  color: #000;
+}
+.frame-parent33 {
+  gap: 6px;
+  font-size: 12px;
+}
+.helpdesk,
+.instance-parent6 {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.instance-parent6 {
+  border-radius: 20px;
+  background-color: #fff;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  border: 1px solid #000;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 9px 8px;
+  position: relative;
+  gap: 215px;
+}
+.helpdesk {
+  align-self: stretch;
+  display: grid;
+  flex-direction: row;
+  gap: 48.3px;
+  grid-template-columns: repeat(4, minmax(225px, 1fr));
+  font-size: 10px;
+  color: #fff;
+  font-family: "Inria Serif";
+}
+.budget-manager {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.budget-manager,
+.button13,
+.time-tracker {
+  display: flex;
+  max-width: 100%;
+}
+.time-tracker {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 48px 118px 47px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 36px;
+  color: #000;
+  font-family: "Inknut Antiqua";
+}
+.button13 {
+  height: 38px;
+  flex: 1;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+.button-wrapper2,
+.button12 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.button12 {
+  flex: 1;
+}
+.button-wrapper2 {
+  width: 407px;
+  padding: 0 7px;
+  box-sizing: border-box;
+}
+.frame-child23,
+.frame-child24 {
+  position: absolute;
+  border-radius: 50%;
+}
+.frame-child23 {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.frame-child24 {
+  top: 7px;
+  left: 83px;
+  background-color: #999;
+  box-shadow: 0 4px 4px #999 inset;
+  width: 10px;
+  height: 10px;
+  z-index: 1;
+}
+.ellipse-parent4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 100px;
+  position: relative;
+}
+.button15 {
+  height: 38px;
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button14,
+.frame-parent39 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button14 {
+  align-self: stretch;
+  flex-direction: row;
+}
+.frame-parent39 {
+  width: 100px;
+  flex-direction: column;
+  gap: 6px;
+}
+.frame-child25,
+.frame-child26 {
+  position: absolute;
+  border-radius: 50%;
+}
+.frame-child25 {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.frame-child26 {
+  top: 7px;
+  left: 83px;
+  background-color: #999;
+  box-shadow: 0 4px 4px #999 inset;
+  width: 10px;
+  height: 10px;
+  z-index: 1;
+}
+.ellipse-parent5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 100px;
+  position: relative;
+}
+.button17 {
+  height: 38px;
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button16,
+.frame-parent40 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button16 {
+  align-self: stretch;
+  flex-direction: row;
+}
+.frame-parent40 {
+  width: 100px;
+  flex-direction: column;
+  gap: 6px;
+}
+.frame-child27,
+.frame-child28 {
+  position: absolute;
+  border-radius: 50%;
+}
+.frame-child27 {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.frame-child28 {
+  top: 7px;
+  left: 83px;
+  background-color: #0b0088;
+  box-shadow: 0 1px 5px #0b0088;
+  width: 10px;
+  height: 10px;
+  z-index: 1;
+}
+.ellipse-parent6 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 100px;
+  position: relative;
+}
+.button19 {
+  height: 38px;
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button18,
+.frame-parent41 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button18 {
+  align-self: stretch;
+  flex-direction: row;
+}
+.frame-parent41 {
+  width: 100px;
+  flex-direction: column;
+  gap: 6px;
+}
+.frame-child29,
+.frame-child30 {
+  position: absolute;
+  border-radius: 50%;
+}
+.frame-child29 {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.frame-child30 {
+  top: 7px;
+  left: 83px;
+  background-color: #0b0088;
+  box-shadow: 0 1px 5px #0b0088;
+  width: 10px;
+  height: 10px;
+  z-index: 1;
+}
+.ellipse-parent7 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 100px;
+  position: relative;
+}
+.button21 {
+  height: 38px;
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button20,
+.frame-parent42 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button20 {
+  align-self: stretch;
+  flex-direction: row;
+}
+.frame-parent42 {
+  width: 100px;
+  flex-direction: column;
+  gap: 6px;
+}
+.frame-child31,
+.frame-child32 {
+  position: absolute;
+  border-radius: 50%;
+}
+.frame-child31 {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.frame-child32 {
+  top: 7px;
+  left: 83px;
+  background-color: #0b0088;
+  box-shadow: 0 1px 5px #0b0088;
+  width: 10px;
+  height: 10px;
+  z-index: 1;
+}
+.ellipse-parent8 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 100px;
+  position: relative;
+}
+.button23 {
+  height: 38px;
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button22,
+.frame-parent43 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button22 {
+  align-self: stretch;
+  flex-direction: row;
+}
+.frame-parent43 {
+  width: 100px;
+  flex-direction: column;
+  gap: 6px;
+}
+.frame-child33,
+.frame-child34 {
+  position: absolute;
+  border-radius: 50%;
+}
+.frame-child33 {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.frame-child34 {
+  top: 7px;
+  left: 83px;
+  background-color: #999;
+  box-shadow: 0 4px 4px #999 inset;
+  width: 10px;
+  height: 10px;
+  z-index: 1;
+}
+.ellipse-parent9 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 100px;
+  position: relative;
+}
+.button25 {
+  height: 38px;
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button24,
+.frame-parent44 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button24 {
+  align-self: stretch;
+  flex-direction: row;
+}
+.frame-parent44 {
+  width: 100px;
+  flex-direction: column;
+  gap: 6px;
+}
+.frame-child35,
+.frame-child36 {
+  position: absolute;
+  border-radius: 50%;
+}
+.frame-child35 {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.frame-child36 {
+  top: 7px;
+  left: 83px;
+  background-color: #0b0088;
+  box-shadow: 0 1px 5px #0b0088;
+  width: 10px;
+  height: 10px;
+  z-index: 1;
+}
+.ellipse-parent10 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 100px;
+  position: relative;
+}
+.button27 {
+  height: 38px;
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button26,
+.frame-parent45 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button26 {
+  align-self: stretch;
+  flex-direction: row;
+}
+.frame-parent45 {
+  width: 100px;
+  flex-direction: column;
+  gap: 6px;
+}
+.frame-child37,
+.frame-child38 {
+  position: absolute;
+  border-radius: 50%;
+}
+.frame-child37 {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.frame-child38 {
+  top: 7px;
+  left: 83px;
+  background-color: #0b0088;
+  box-shadow: 0 1px 5px #0b0088;
+  width: 10px;
+  height: 10px;
+  z-index: 1;
+}
+.ellipse-parent11 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 100px;
+  position: relative;
+}
+.button29 {
+  height: 38px;
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button28,
+.frame-parent46 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button28 {
+  align-self: stretch;
+  flex-direction: row;
+}
+.frame-parent46 {
+  width: 100px;
+  flex-direction: column;
+  gap: 6px;
+}
+.frame-child39,
+.frame-child40 {
+  position: absolute;
+  border-radius: 50%;
+}
+.frame-child39 {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.frame-child40 {
+  top: 7px;
+  left: 83px;
+  background-color: #999;
+  box-shadow: 0 4px 4px #999 inset;
+  width: 10px;
+  height: 10px;
+  z-index: 1;
+}
+.ellipse-parent12 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 100px;
+  position: relative;
+}
+.button31 {
+  height: 38px;
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button30,
+.frame-parent47 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button30 {
+  align-self: stretch;
+  flex-direction: row;
+}
+.frame-parent47 {
+  width: 100px;
+  flex-direction: column;
+  gap: 6px;
+}
+.frame-child41,
+.frame-child42 {
+  position: absolute;
+  border-radius: 50%;
+}
+.frame-child41 {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  cursor: pointer;
+}
+.frame-child42 {
+  top: 7px;
+  left: 83px;
+  background-color: #0b0088;
+  box-shadow: 0 1px 5px #0b0088;
+  width: 10px;
+  height: 10px;
+  z-index: 1;
+}
+.ellipse-parent13 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 100px;
+  position: relative;
+}
+.button33 {
+  height: 38px;
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button32 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.button32,
+.frame-parent38,
+.frame-parent48 {
+  display: flex;
+  align-items: flex-start;
+}
+.frame-parent48 {
+  width: 100px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 6px;
+}
+.frame-parent38 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.desktop-1-child,
+.frame-parent37 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent37 {
+  flex: 1;
+  flex-direction: column;
+  gap: 20px;
+}
+.desktop-1-child {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 40px 37px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 18px;
+  color: #000;
+  font-family: "Inknut Antiqua";
+}
+.subsicribe-our-newsletter,
+.when-new-recipe {
+  margin: 0;
+}
+.button35 {
+  position: relative;
+  text-transform: capitalize;
+}
+.button34 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 10px 3px 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.search-child1 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50px;
+  background-color: #000;
+  border: 1px solid #fff;
+  box-sizing: border-box;
+}
+.frame-input {
+  width: 185px;
+  border: 0;
+  outline: 0;
+  background-color: transparent;
+  height: 43px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5px 0 0;
+  box-sizing: border-box;
+  font-family: "Inknut Antiqua";
+  font-size: 18px;
+  color: #fff;
+}
+.search-child2 {
+  height: 48px;
+  width: 75px;
+  position: relative;
+  border-radius: 0 50px 50px 0;
+  background-color: #fff;
+  z-index: 1;
+}
+.icoutline-search-icon1 {
+  height: 25px;
+  width: 25px;
+  position: absolute;
+  margin: 0 !important;
+  right: 26px;
+  bottom: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.search1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 1px 1px 1px 15px;
+  position: relative;
+  gap: 20px;
+}
+.button-parent,
+.frame-section,
+.search-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.search-container {
+  width: 500px;
+  flex-direction: column;
+  padding: 23px 0 0;
+}
+.button-parent,
+.frame-section {
+  flex-direction: row;
+}
+.button-parent {
+  flex: 1;
+  background-color: #000;
+  overflow: hidden;
+  padding: 71px 47px 72px;
+  gap: 120px;
+}
+.frame-section {
+  align-self: stretch;
+  padding: 0 0 37px;
+  text-align: left;
+  font-size: 18px;
+  color: #fff;
+  font-family: "Inknut Antiqua";
+}
+.subheading3 {
+  margin: 0;
+  height: 57px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+}
+.sub-heading3 {
+  width: 571px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.button37,
+.sub-heading-container {
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+}
+.sub-heading-container {
+  width: 1091px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.button37 {
+  height: 38px;
+  flex: 1;
+  position: relative;
+  white-space: pre-wrap;
+  align-items: center;
+}
+.button36 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  font-size: 18px;
+}
+.button36,
+.desktop-1-inner1,
+.frame-parent49 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent49 {
+  width: 1105px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.desktop-1-inner1 {
+  width: 1361px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px 98px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 36px;
+  color: #000;
+  font-family: "Inknut Antiqua";
+}
+.instance-child11,
+.recipe-name49 {
+  position: relative;
+  overflow: hidden;
+  max-width: 100%;
+}
+.instance-child11 {
+  align-self: stretch;
+  height: 300px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.recipe-name49 {
+  height: 29px;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-overflow: ellipsis;
+}
+.instance-parent8,
+.recipe-name-wrapper1,
+.recipe-name48 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.recipe-name48 {
+  flex: 1;
+  flex-direction: row;
+}
+.instance-parent8,
+.recipe-name-wrapper1 {
+  overflow: hidden;
+}
+.recipe-name-wrapper1 {
+  align-self: stretch;
+  background-color: #dff;
+  flex-direction: row;
+  padding: 36px 0 35px;
+  box-sizing: border-box;
+}
+.instance-parent8 {
+  border-radius: 20px;
+  background-color: #fff;
+  flex-direction: column;
+}
+.instance-child12,
+.recipe-name51 {
+  position: relative;
+  overflow: hidden;
+  max-width: 100%;
+}
+.instance-child12 {
+  align-self: stretch;
+  height: 300px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.recipe-name51 {
+  height: 29px;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-overflow: ellipsis;
+}
+.instance-parent9,
+.recipe-name-wrapper2,
+.recipe-name50 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.recipe-name50 {
+  flex: 1;
+  flex-direction: row;
+}
+.instance-parent9,
+.recipe-name-wrapper2 {
+  overflow: hidden;
+}
+.recipe-name-wrapper2 {
+  align-self: stretch;
+  background-color: #dff;
+  flex-direction: row;
+  padding: 36px 0 35px;
+  box-sizing: border-box;
+}
+.instance-parent9 {
+  border-radius: 20px;
+  background-color: #fff;
+  flex-direction: column;
+}
+.instance-child13 {
+  align-self: stretch;
+  height: 300px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.recipe-name52,
+.recipe-name53 {
+  flex: 1;
+  display: flex;
+  max-width: 100%;
+}
+.recipe-name53 {
+  height: 29px;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.recipe-name52 {
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name-wrapper3 {
+  align-self: stretch;
+  background-color: #dff;
+  display: flex;
+  flex-direction: row;
+  padding: 36px 0 35px;
+  box-sizing: border-box;
+}
+.instance-parent10,
+.instance-parent7,
+.recipe-name-wrapper3 {
+  overflow: hidden;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.instance-parent10 {
+  border-radius: 20px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+}
+.instance-parent7 {
+  align-self: stretch;
+  display: grid;
+  flex-direction: row;
+  padding: 0 0 120px;
+  box-sizing: border-box;
+  gap: 63px;
+  grid-template-columns: repeat(3, minmax(300px, 1fr));
+}
+.browse-recipes {
+  width: 395px;
+  position: relative;
+  font-size: 48px;
+  display: inline-block;
+  font-family: "Inria Serif";
+  color: #000;
+  text-align: center;
+}
+.browse-recipes-wrapper {
+  cursor: pointer;
+  border: 1px solid #080;
+  padding: 25px 39px;
+  background-color: transparent;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.browse-recipes-wrapper:hover {
+  background-color: rgba(38, 173, 38, 0.09);
+  border: 1px solid #26ad26;
+  box-sizing: border-box;
+}
+.instance-wrapper {
+  width: 1189px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.desktop-1-inner2,
+.frame-parent50,
+.instance-wrapper {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent50 {
+  width: 1326px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 37px;
+}
+.desktop-1-inner2 {
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 52px 37px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 24px;
+  color: #000;
+  font-family: "Inria Serif";
+}
+.recipe-name55 {
+  height: 29px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.recipe-name54 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-width: 205px;
+  max-width: 223px;
+}
+.recipe-name57 {
+  height: 29px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.recipe-name56 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-width: 205px;
+  max-width: 222px;
+}
+.recipe-name59 {
+  height: 29px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.recipe-name58 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-width: 205px;
+  max-width: 223px;
+}
+.recipe-name61 {
+  height: 29px;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.condition-checker1,
+.recipe-name60 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.recipe-name60 {
+  flex: 1;
+  min-width: 205px;
+  max-width: 222px;
+}
+.condition-checker1 {
+  width: 1040px;
+  flex-wrap: wrap;
+  gap: 50px;
+  max-width: 100%;
+}
+.data-repeater,
+.recipe-name63 {
+  position: relative;
+  max-width: 100%;
+}
+.data-repeater {
+  width: 1041px;
+  height: 1px;
+  border-top: 1px solid #fff;
+  box-sizing: border-box;
+}
+.recipe-name63 {
+  height: 29px;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.recipe-name62 {
+  width: 1040px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+  text-align: center;
+}
+.condition-checker-parent,
+.desktop-1 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.condition-checker-parent {
+  align-self: stretch;
+  background-color: #000;
+  align-items: center;
+  padding: 50px 20px;
+  box-sizing: border-box;
+  gap: 20.5px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 24px;
+  color: #fff;
+  font-family: "Inria Serif";
+}
+.desktop-1 {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  align-items: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1350px) {
+  .component-8-parent,
+  .frame-parent2 {
+    flex-wrap: wrap;
+  }
+  .frame-group {
+    gap: 198px;
+  }
+  .frame-parent38 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .button-parent {
+    flex-wrap: wrap;
+    padding-left: 23px;
+    padding-right: 23px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .component-1-group {
+    display: none;
+  }
+  .component-8,
+  .component-9 {
+    justify-content: center;
+    grid-template-columns: repeat(2, minmax(225px, 390px));
+  }
+  .component-9 {
+    min-width: 100%;
+  }
+  .function-applier {
+    flex-wrap: wrap;
+  }
+  .helpdesk,
+  .instance-parent,
+  .instance-parent7 {
+    justify-content: center;
+    grid-template-columns: repeat(2, minmax(225px, 390px));
+  }
+  .instance-parent7 {
+    grid-template-columns: repeat(2, minmax(300px, 520px));
+  }
+}
+@media screen and (max-width: 800px) {
+  .maa-vaishnavi-recipes-high-res-parent {
+    padding-right: 26px;
+    box-sizing: border-box;
+  }
+  .subheading {
+    font-size: 29px;
+  }
+  .image-19-parent {
+    gap: 21px;
+    padding-top: 65px;
+    padding-bottom: 114px;
+    box-sizing: border-box;
+  }
+  .component-8-child,
+  .component-8-inner,
+  .component-8-item,
+  .frame-icon {
+    width: 100%;
+  }
+  .component-8 {
+    gap: 24px;
+    padding-left: 23px;
+    padding-right: 23px;
+    box-sizing: border-box;
+    grid-template-columns: minmax(225px, 1fr);
+  }
+  .output-generator-icon,
+  .output-generator-icon1,
+  .output-generator-icon2,
+  .output-generator-icon3 {
+    width: 100%;
+  }
+  .component-9 {
+    gap: 24px;
+    padding-left: 23px;
+    padding-right: 23px;
+    box-sizing: border-box;
+    grid-template-columns: minmax(225px, 1fr);
+  }
+  .component-8-parent,
+  .function-applier {
+    gap: 24px;
+  }
+  .frame-group {
+    gap: 99px;
+  }
+  .desktop-1-inner {
+    padding-bottom: 51px;
+    box-sizing: border-box;
+  }
+  .subheading1 {
+    font-size: 29px;
+  }
+  .instance-parent {
+    gap: 24px;
+    grid-template-columns: minmax(225px, 1fr);
+  }
+  .shape-creator-wrapper {
+    padding-left: 23px;
+    padding-right: 24px;
+    padding-bottom: 51px;
+    box-sizing: border-box;
+  }
+  .subheading2 {
+    font-size: 29px;
+  }
+  .helpdesk {
+    gap: 24px;
+    grid-template-columns: minmax(225px, 1fr);
+  }
+  .time-tracker {
+    padding-left: 23px;
+    padding-right: 24px;
+    padding-bottom: 77px;
+    box-sizing: border-box;
+  }
+  .button-parent {
+    gap: 60px;
+  }
+  .subheading3 {
+    font-size: 29px;
+  }
+  .instance-parent7 {
+    gap: 31px;
+    padding-bottom: 78px;
+    box-sizing: border-box;
+    grid-template-columns: minmax(300px, 1fr);
+  }
+  .browse-recipes {
+    font-size: 38px;
+  }
+  .frame-parent50 {
+    gap: 18px;
+  }
+  .desktop-1-inner2 {
+    padding-left: 26px;
+    padding-right: 26px;
+    box-sizing: border-box;
+  }
+  .condition-checker1 {
+    gap: 25px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .subheading {
+    font-size: 22px;
+  }
+  .paragraph1 {
+    font-size: 19px;
+  }
+  .search {
+    flex-wrap: wrap;
+  }
+  .recipe-name1 {
+    font-size: 19px;
+  }
+  .frame-parent1 {
+    gap: 81px;
+  }
+  .recipe-name3,
+  .recipe-name5,
+  .recipe-name7 {
+    font-size: 19px;
+  }
+  .frame-parent3 {
+    gap: 84px;
+  }
+  .recipe-name9 {
+    font-size: 19px;
+  }
+  .recipe-name-frame {
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+  .recipe-name11,
+  .recipe-name13,
+  .recipe-name15 {
+    font-size: 19px;
+  }
+  .signal-emitter {
+    gap: 84px;
+  }
+  .frame-group {
+    gap: 49px;
+  }
+  .subheading1 {
+    font-size: 22px;
+  }
+  .frame-parent6 {
+    gap: 38px;
+  }
+  .instance-group {
+    gap: 72px;
+  }
+  .frame-parent8 {
+    gap: 38px;
+  }
+  .instance-container {
+    gap: 72px;
+  }
+  .frame-parent14 {
+    gap: 32px;
+  }
+  .instance-parent1 {
+    gap: 72px;
+  }
+  .frame-parent20 {
+    gap: 30px;
+  }
+  .instance-parent2 {
+    gap: 72px;
+  }
+  .subheading2 {
+    font-size: 22px;
+  }
+  .instance-parent3,
+  .instance-parent4 {
+    gap: 107px;
+  }
+  .instance-parent5 {
+    padding-top: 162px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+  .instance-parent6 {
+    gap: 107px;
+  }
+  .search1 {
+    flex-wrap: wrap;
+  }
+  .button-parent {
+    gap: 30px;
+  }
+  .subheading3 {
+    font-size: 22px;
+  }
+  .recipe-name49,
+  .recipe-name51,
+  .recipe-name53 {
+    font-size: 19px;
+  }
+  .instance-parent7 {
+    gap: 16px;
+  }
+  .browse-recipes {
+    font-size: 29px;
+  }
+  .recipe-name55,
+  .recipe-name57,
+  .recipe-name59,
+  .recipe-name61,
+  .recipe-name63 {
+    font-size: 19px;
+  }
+}

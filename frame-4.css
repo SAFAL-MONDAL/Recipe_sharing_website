@@ -1,0 +1,244 @@
+.maa-vaishnavi-recipes-high-res-icon5 {
+  height: 58.2px;
+  width: 300px;
+  position: relative;
+  object-fit: cover;
+}
+.component-1-child3 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.home25 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 70px;
+  z-index: 1;
+}
+.component-15 {
+  height: 36px;
+  width: 70px;
+  border-top: 3px solid #000;
+  border-bottom: 3px solid #000;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.component-2-child3 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.home26 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 100px;
+  z-index: 1;
+}
+.component-25 {
+  height: 36px;
+  width: 100px;
+  border-top: 3px solid #000;
+  border-bottom: 3px solid #000;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.component-3-child3 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.home27 {
+  width: 142px;
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  z-index: 1;
+}
+.component-35 {
+  height: 36px;
+  border-top: 3px solid #b76e79;
+  border-bottom: 3px solid #b76e79;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 2px 0 3px;
+  position: relative;
+}
+.component-4-child3 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.home28 {
+  width: 186px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.component-1-parent3,
+.component-45 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.component-45 {
+  height: 36px;
+  border-top: 3px solid #000;
+  border-bottom: 3px solid #000;
+  box-sizing: border-box;
+  padding: 1px 1px 0;
+  position: relative;
+}
+.component-1-parent3 {
+  height: 30px;
+  gap: 20px;
+}
+.frame-wrapper12 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 13.2px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.component-6-child2 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.home29 {
+  width: 176px;
+  position: relative;
+  font-size: 24px;
+  display: flex;
+  font-family: "Inria Serif";
+  color: #fff;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+.component-6-frame,
+.component-64 {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.component-64 {
+  cursor: pointer;
+  border: 3px solid #b76e79;
+  padding: 1px 2px 0;
+  background-color: transparent;
+  width: 186px;
+  height: 36px;
+  flex-direction: row;
+  justify-content: flex-start;
+  position: relative;
+}
+.component-64:hover {
+  background-color: rgba(158, 84, 97, 0.09);
+  border: 3px solid #9e5461;
+  box-sizing: border-box;
+}
+.component-6-frame {
+  height: 44.2px;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 14.2px;
+}
+.maa-vaishnavi-recipes-high-res-container {
+  align-self: stretch;
+  background-color: #000;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 26px 53px 25.8px 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: 20px;
+  text-align: center;
+  font-size: 24px;
+  color: #fff;
+  font-family: "Inria Serif";
+}
+.frame-child60,
+.frame-root {
+  position: relative;
+  overflow: hidden;
+}
+.frame-child60 {
+  align-self: stretch;
+  height: 5px;
+  background-color: #fff;
+  flex-shrink: 0;
+}
+.frame-root {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1125px) {
+  .maa-vaishnavi-recipes-high-res-container {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .maa-vaishnavi-recipes-high-res-container {
+    padding-right: 26px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .home25,
+  .home26,
+  .home27,
+  .home28,
+  .home29 {
+    font-size: 19px;
+  }
+}

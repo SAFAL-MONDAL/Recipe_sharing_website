@@ -1,0 +1,105 @@
+.image-27-icon {
+  width: 360px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  max-width: 100%;
+}
+.image-27-wrapper {
+  width: 667px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 0 1px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.close,
+.thank-you-for {
+  position: relative;
+  text-transform: capitalize;
+}
+.thank-you-for {
+  align-self: stretch;
+}
+.close {
+  font-size: 40px;
+  display: inline-block;
+  font-family: "Inria Serif";
+  color: #fff;
+  text-align: left;
+  min-width: 99px;
+}
+.close-button,
+.close-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.close-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 14px 20px 13px;
+  background-color: #800;
+  width: 400px;
+  border-radius: 50px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.close-wrapper:hover {
+  background-color: #ba3333;
+}
+.close-button {
+  width: 630px;
+  padding: 0 20px;
+}
+.frame-top,
+.thank-you-for-your-recipes-it-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.thank-you-for-your-recipes-it-parent {
+  width: 667px;
+  align-items: flex-start;
+  gap: 28px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 40px;
+  color: #000;
+  font-family: "Inria Serif";
+}
+.frame-top {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  align-items: center;
+  padding: 95px 20px 96px;
+  box-sizing: border-box;
+  gap: 100px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 750px) {
+  .close,
+  .thank-you-for {
+    font-size: 32px;
+  }
+  .frame-top {
+    gap: 50px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .close,
+  .thank-you-for {
+    font-size: 24px;
+  }
+  .frame-top {
+    gap: 25px;
+  }
+}
